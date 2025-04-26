@@ -60,4 +60,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/139aff1c-1e81-481b-a98d-237b7ca5440b)
 ### Results:
 The experiment on Phase Shift Keying (PSK) modulation and demodulation was successfully carried out using Python. The binary input data was accurately recovered after demodulation, confirming the correct implementation of PSK. The phase variations corresponding to different binary values were clearly observed in the modulated waveform, and the demodulated output matched the original binary sequence.
-# Hardware experiment output waveform:
+
